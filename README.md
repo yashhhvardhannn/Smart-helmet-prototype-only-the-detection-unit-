@@ -10,11 +10,9 @@ A prototype **Smart Helmet safety system** designed to improve rider safety by m
 
 ### Prototype demonstration
 
-> **Video:** Add the demo video to the repository as `demo/smart-helmet-demo.mp4`.
-
-[▶️ **Watch the Smart Helmet Demo**](./demo/smart-helmet-demo.mp4)
-
-> GitHub may not render a repository `.mp4` as an inline player in every README context. The link above provides a reliable way to open the video file.
+<p align="center">
+  <img src="./demo/smart-helmet-demo.gif" alt="Smart Helmet Demo" width="800">
+</p>
 
 ---
 
